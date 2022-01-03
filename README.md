@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  PROJECT_NAME
+  Discord Stealer
   <br />
   <a href="#about"><strong>Explore the screenshots »</strong></a>
   <br />
